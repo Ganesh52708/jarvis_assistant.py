@@ -1,0 +1,12 @@
+# JARVIS AI Assistant Setup Instructions
+
+## 1. API Key Configuration
+To enable AI communication, you need to set up an OpenRouter API key:
+
+1. Visit https://openrouter.ai/ and create an account
+2. Generate an API key from your dashboard
+3. Replace the OPENROUTER_API_KEY in app.py with your actual key:
+   OPENROUTER_API_KEY = "your-actual-api-key-here"
+
+## 2. Required Dependencies
+Make sure you have all required packages installed:
