@@ -23,7 +23,7 @@ import base64
 from PIL import ImageGrab
 
 # ========== CONFIG ==========
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 VOSK_MODEL_PATH = r"C:\Users\Ganesh Yadav\OneDrive\Desktop\jarvis_assistant.py\vosk-model-small-en-us-0.15"
 
 WAKE_WORDS = ["hey"]
